@@ -18,7 +18,7 @@ public class MyApp {
         logger.info("Running MyApp.main()");
 
         // create the object
-        BaseballCoach theCoach = new BaseballCoach();
+        Coach theCoach = new TrackCoach();
 
         // use the object
         logger.info(theCoach.getDailyWorkout());

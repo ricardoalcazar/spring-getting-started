@@ -1,13 +1,7 @@
 package com.alcazar.springdemo;
 
 
-/**
- * @Author: Ricardo Alcazar
- * @Modified: 10/12/2018
- */
-
-
-public class BaseballCoach {
+public class BaseballCoach implements Coach {
 
     private String workout;
 
@@ -22,6 +16,7 @@ public class BaseballCoach {
      * Returns the daily workout
      * @return A string
      */
+    @Override
     public String getDailyWorkout(){
         return workout;
 

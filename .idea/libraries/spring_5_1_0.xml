@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="spring-5.1.0.RELEASE-javadoc">
+  <library name="spring-5.1.0">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/../java-libraries/spring-framework-5.1.0.RELEASE/libs/spring-aop-5.1.0.RELEASE.jar!/" />
       <root url="jar://$PROJECT_DIR$/../java-libraries/spring-framework-5.1.0.RELEASE/libs/spring-aspects-5.1.0.RELEASE.jar!/" />
